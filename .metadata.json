@@ -1,0 +1,19 @@
+[
+  {
+    "package": "enviGCMS",
+    "oncran": true
+  },
+  {
+    "package": "pmd",
+    "oncran": true
+  },
+  {
+    "package": "enet"
+  },
+  {
+    "package": "scifetch"
+  },
+  {
+    "package": "rmwf"
+  }
+]
