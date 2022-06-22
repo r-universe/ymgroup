@@ -28,3 +28,39 @@
 	url = https://github.com/yufree/rmwf
 	shallow = true
 	registered = true
+[submodule "Autotuner"]
+	path = Autotuner
+	url = https://github.com/KujawinskiLaboratory/Autotuner
+	shallow = true
+	registered = false
+[submodule "MetaboAnnotation"]
+	path = MetaboAnnotation
+	url = https://github.com/rformassspectrometry/MetaboAnnotation
+	shallow = true
+	registered = false
+[submodule "RAMClustR"]
+	path = RAMClustR
+	url = https://github.com/cbroeckl/RAMClustR
+	shallow = true
+	registered = false
+[submodule "SSOAP"]
+	path = SSOAP
+	url = https://github.com/cran/SSOAP
+	shallow = true
+	registered = false
+[submodule "XMLSchema"]
+	path = XMLSchema
+	url = https://github.com/omegahat/XMLSchema
+	shallow = true
+	registered = false
+[submodule "metfRag"]
+	path = metfRag
+	url = https://github.com/c-ruttkies/MetFragR
+	shallow = true
+	subdir = metfRag
+	registered = false
+[submodule "xMSannotator"]
+	path = xMSannotator
+	url = https://github.com/yufree/xMSannotator
+	shallow = true
+	registered = false

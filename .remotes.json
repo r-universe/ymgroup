@@ -1,0 +1,45 @@
+[
+  {
+    "package": "Autotuner",
+    "url": "https://github.com/KujawinskiLaboratory/Autotuner",
+    "via": ["rmwf"],
+    "from": "rmwf"
+  },
+  {
+    "package": "MetaboAnnotation",
+    "url": "https://github.com/rformassspectrometry/MetaboAnnotation",
+    "via": ["rmwf"],
+    "from": "rmwf"
+  },
+  {
+    "package": "RAMClustR",
+    "url": "https://github.com/cbroeckl/RAMClustR",
+    "via": ["rmwf"],
+    "from": "rmwf"
+  },
+  {
+    "package": "SSOAP",
+    "url": "https://github.com/cran/SSOAP",
+    "via": ["rmwf"],
+    "from": "rmwf"
+  },
+  {
+    "package": "XMLSchema",
+    "url": "https://github.com/omegahat/XMLSchema",
+    "via": ["rmwf"],
+    "from": "rmwf"
+  },
+  {
+    "package": "metfRag",
+    "url": "https://github.com/c-ruttkies/MetFragR",
+    "via": ["rmwf"],
+    "subdir": "metfRag",
+    "from": "rmwf"
+  },
+  {
+    "package": "xMSannotator",
+    "url": "https://github.com/yufree/xMSannotator",
+    "via": ["rmwf"],
+    "from": "rmwf"
+  }
+]
