@@ -6,12 +6,6 @@
     "from": "rmwf"
   },
   {
-    "package": "MetaboAnnotation",
-    "url": "https://github.com/rformassspectrometry/MetaboAnnotation",
-    "via": ["rmwf"],
-    "from": "rmwf"
-  },
-  {
     "package": "RAMClustR",
     "url": "https://github.com/cbroeckl/RAMClustR",
     "via": ["rmwf"],

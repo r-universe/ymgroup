@@ -33,11 +33,6 @@
 	url = https://github.com/KujawinskiLaboratory/Autotuner
 	shallow = true
 	registered = false
-[submodule "MetaboAnnotation"]
-	path = MetaboAnnotation
-	url = https://github.com/rformassspectrometry/MetaboAnnotation
-	shallow = true
-	registered = false
 [submodule "RAMClustR"]
 	path = RAMClustR
 	url = https://github.com/cbroeckl/RAMClustR
