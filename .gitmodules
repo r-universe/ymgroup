@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/ymgroup/ymgroup.r-universe.dev
 	branch = HEAD
+[submodule "enet"]
+	path = enet
+	url = https://github.com/yufree/enet
+[submodule "enviGCMS"]
+	path = enviGCMS
+	url = https://github.com/yufree/enviGCMS
+[submodule "pmd"]
+	path = pmd
+	url = https://github.com/yufree/pmd
+[submodule "rmwf"]
+	path = rmwf
+	url = https://github.com/yufree/rmwf
+[submodule "scifetch"]
+	path = scifetch
+	url = https://github.com/yufree/scifetch
